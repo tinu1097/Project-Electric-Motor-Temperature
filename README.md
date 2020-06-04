@@ -1,4 +1,9 @@
 # Project-Electric_Motor_Temperature
+# Deployement on Shinyapps.io#
+# App Link#
+# https://teena-agrawal.shinyapps.io/shinyDep/
+
+
 # Business Objective
 Predict temperature based on other attributes available in this data set output variable Motor Temperature(pm) and rest of the coloumns ambient,coolant,u_d,u_q,motor_speed,torque,i_d,i_q,pm,stator_yoke,stator_tooth,stator_einding,profile_id.
 
